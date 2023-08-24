@@ -11,7 +11,7 @@ DEST_DIR="user@example.com:/path/to/destination/"
 LOG_FILE="/var/log/sync_error.log"
 
 # SSH port.
-SSH_PORT=2
+SSH_PORT=22
 
 # Number of days to keep file source.
 DAYS = 10
